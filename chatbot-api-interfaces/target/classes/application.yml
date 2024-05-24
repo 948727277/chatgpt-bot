@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+chatbot-api:
+  groupId: 88888258458822 # 知识星球ID
+  cookie: zsxq_access_token=CF5B6816-5AA7-CF8C-1EE8-0BAB135B7EA0_93B160EBA920F95E; abtest_env=product; zsxqsessionid=d45d59261cdc335e6862a1be0dc0c13a; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%22414815242418588%22%2C%22first_id%22%3A%2218ea48d9394b3-097e118eecaf95-26001a51-1327104-18ea48d9395833%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMThlYTQ4ZDkzOTRiMy0wOTdlMTE4ZWVjYWY5NS0yNjAwMWE1MS0xMzI3MTA0LTE4ZWE0OGQ5Mzk1ODMzIiwiJGlkZW50aXR5X2xvZ2luX2lkIjoiNDE0ODE1MjQyNDE4NTg4In0%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%22414815242418588%22%7D%2C%22%24device_id%22%3A%2218ea48d9394b3-097e118eecaf95-26001a51-1327104-18ea48d9395833%22%7D # 知识星球个人cookie信息
+  openAiKey: sk-ucWDJ7iuUvr0vWnw7zJahUPyXI1CZ5opq83bU95kdXeInBLE
